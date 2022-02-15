@@ -1,1 +1,1 @@
-Prototype landing page for Smoothie, by @gcalsmith
+# Prototype landing page for Smoothie, by @gcalsmith
